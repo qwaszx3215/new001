@@ -186,5 +186,4 @@ function Forms() {
   );
 }
 
-export default Forms;
-Footer
+export default Forms; 
